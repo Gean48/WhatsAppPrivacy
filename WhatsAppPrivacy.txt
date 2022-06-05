@@ -1,6 +1,6 @@
 {
  "version":"2.22.12.9",
- "title":"Atualização disponível v1.14 🛠️",
+ "title":"Atualização disponível v2.22.12.8 🛠️",
  "description":"Uma nova atualização está disponível e vêm com novas funções incríveis 👏🏻🚀",
  "download":"https://xlab-temas.blogspot.com/2022/05/beta-prime.html"
 }
